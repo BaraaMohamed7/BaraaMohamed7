@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Baraa%20Mohamed&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Baraa%20Mohamed&fontSize=60" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=baraamohamed7&label=Profile%20views&color=000000&style=3d" alt="baraamohamed7" /> </p>
 
