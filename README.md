@@ -39,15 +39,16 @@ Currently working with **Next.js**, **TypeScript**, **Node.js**, **NestJS**, **S
 | [Voucher Tool System](https://github.com/BaraaMohamed7/VoucherToolSystem) | Voucher and product management system | Java, Spring Boot, SQL Server |
 
 ---
-
-[//] ### (GitHub stats)
-
-<!-- 
+ 
 <p align="center">
+  <!--
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=BaraaMohamed7&show_icons=true&hide_border=true&theme=transparent" />
+  -->
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaraaMohamed7&layout=compact&hide_border=true&theme=transparent" />
 </p>
--->
+
+
+---
 
 <p align="center">
   Building, learning, and improving one project at a time.
