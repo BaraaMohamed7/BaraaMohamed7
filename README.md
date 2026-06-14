@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="mailto:albaraa.m.m2005@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/baraamohamed82">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/baraa-mohamed-dev">LinkedIn</a> •
   <a href="https://github.com/BaraaMohamed7">GitHub</a>
 </p>
 
