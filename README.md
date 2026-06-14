@@ -46,10 +46,3 @@ Currently working with **Next.js**, **TypeScript**, **Node.js**, **NestJS**, **S
   -->
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaraaMohamed7&layout=compact&hide_border=true&theme=transparent" />
 </p>
-
-
----
-
-<p align="center">
-  Building, learning, and improving one project at a time.
-</p>
