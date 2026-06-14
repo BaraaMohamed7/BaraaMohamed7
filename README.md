@@ -14,7 +14,7 @@
 
 ### About me
 
-I'm a Computer Science student and software engineer from Alexandria, Egypt.  
+I'm a Software engineer from Egypt.  
 I enjoy turning ideas into real products, with a focus on full-stack web development, backend systems, and clean user experiences.
 
 Currently working with **Next.js**, **TypeScript**, **Node.js**, **NestJS**, **Spring Boot**, and **SQL**.
