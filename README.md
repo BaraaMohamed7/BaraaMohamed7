@@ -1,48 +1,81 @@
-<h1 align="center">Hi, I'm Baraa Mohamed</h1>
+# Hi, I'm Baraa Mohamed Ahmed
 
-<p align="center">
-  Software Engineer focused on building clean, practical, and scalable web applications.
-</p>
+Backend-focused Software Engineer building web APIs and backend systems with **Java, Spring Boot, TypeScript, and NestJS**.
 
-<p align="center">
-  <a href="mailto:albaraa.m.m2005@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/baraa-mohamed-dev">LinkedIn</a> •
-  <a href="https://github.com/BaraaMohamed7">GitHub</a>
-</p>
+I enjoy working on backend architecture, business logic, authentication and authorization, relational databases, and building APIs that are maintainable beyond the first working version.
 
----
+## About Me
 
-### About me
+* Computer Science student at Alexandria University.
+* Hands-on experience building and shipping backend and full-stack features in production environments.
+* Worked with **Java and Spring Boot** during my backend internship at e& Egypt.
+* Built production backend features using **NestJS, TypeScript, PostgreSQL, Prisma, and REST APIs**.
+* Interested in backend engineering, system design, databases, DevOps, and distributed systems.
 
-I'm a Software engineer from Egypt.  
-I enjoy turning ideas into real products, with a focus on full-stack web development, backend systems, and clean user experiences.
+## Tech Stack
 
-Currently working with **Next.js**, **TypeScript**, **Node.js**, **NestJS**, **Spring Boot**, and **SQL**.
+**Backend**
 
----
+* Java, Spring Boot, Spring Data JPA
+* TypeScript, Node.js, NestJS
+* REST APIs, JWT, OAuth, RBAC
 
-### Tech stack
+**Databases**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs,java,spring,postgres,mysql,prisma,tailwind,git,github" />
-</p>
+* PostgreSQL
+* SQL Server
+* MongoDB
 
----
+**Engineering & Tools**
 
-### Featured projects
+* Git & GitHub
+* Jest
+* Swagger / OpenAPI
+* Postman
+* Linux
 
-| Project | Description | Tech |
-|---|---|---|
-| [Blogy API](https://github.com/BaraaMohamed7/Blogy-Api) | Backend API for a blogging platform | TypeScript |
-| [Next.js Blog App](https://github.com/BaraaMohamed7/NextJs-Blog-App) | Full-stack blog application | Next.js, JavaScript |
-| [PERN Product Store](https://github.com/BaraaMohamed7/PernStack-ProductStore-Project) | Product management app | PostgreSQL, Express, React, Node |
-| [Voucher Tool System](https://github.com/BaraaMohamed7/VoucherToolSystem) | Voucher and product management system | Java, Spring Boot, SQL Server |
+**Frontend**
 
----
- 
-<p align="center">
-  <!--
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=BaraaMohamed7&show_icons=true&hide_border=true&theme=transparent" />
-  -->
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaraaMohamed7&layout=compact&hide_border=true&theme=transparent" />
-</p>
+* React
+* Next.js
+
+## Selected Projects
+
+### VoucherToolSystem
+
+**Java · Spring Boot · Spring Data JPA · SQL Server · JWT**
+
+Backend voucher management system built during my backend training, covering REST APIs, relational persistence, authentication, and business logic.
+
+[View Repository](https://github.com/BaraaMohamed7/VoucherToolSystem)
+
+### Blogy API
+
+**NestJS · TypeScript · PostgreSQL · JWT · OAuth · AWS S3**
+
+Modular REST API supporting users, posts, tags, authentication, pagination, validation, and file uploads.
+
+[View Repository](https://github.com/BaraaMohamed7/Blogy-Api)
+
+### OrigoEngine
+
+**Python · Information Retrieval · Search Algorithms**
+
+Arabic-English search engine implementing indexing, ranked retrieval, stemming, spelling correction, and query processing.
+
+[View Repository](https://github.com/BaraaMohamed7/OrigoEngine)
+
+## Currently Focusing On
+
+Deepening my backend engineering skills through:
+
+* Java and Spring Boot
+* Backend architecture and system design
+* SQL and database design
+* Testing and API design
+* Docker, DevOps, and deployment fundamentals
+
+## Connect With Me
+
+* LinkedIn: https://linkedin.com/in/baraa-mohamed-dev
+* Email: [baraa.mohamed.ahmed7@gmail.com](mailto:baraa.mohamed.ahmed7@gmail.com)
