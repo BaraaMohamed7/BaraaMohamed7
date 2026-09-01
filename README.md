@@ -5,8 +5,6 @@ Backend-focused Software Engineer building web APIs and backend systems with **J
 I enjoy working on backend architecture, business logic, authentication and authorization, relational databases, and building APIs that are maintainable beyond the first working version.
 
 ## About Me
-
-* Computer Science student at Alexandria University.
 * Hands-on experience building and shipping backend and full-stack features in production environments.
 * Worked with **Java and Spring Boot** during my backend internship at e& Egypt.
 * Built production backend features using **NestJS, TypeScript, PostgreSQL, Prisma, and REST APIs**.
